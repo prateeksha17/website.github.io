@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(200, 198, 202);
+}
+img{
+    display: flex;
+  max-width: 30%;
+  height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px;
+    background-color: white;
+    margin-left: 30%;
+}
